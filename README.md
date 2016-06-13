@@ -1,4 +1,4 @@
-**Hosted by [MacTweaks](https://www.mactweaks.net)**
+**Hosted by [MacTweaks](http://www.mactweaks.net)**
 
 ##Built copy of SartFileTool for 10.7, 10.8, 10.9, 10.10
 
