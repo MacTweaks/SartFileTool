@@ -4,14 +4,19 @@
 
 Downloads have been included where there isnt one available directly from the developer
 
+--
 
 **Source**
 
 http://ctf0.deviantart.com/journal/Mountain-Lion-Mavericks-Theme-Resources-319281804
 
+--
+
 **Developer**
 
 https://github.com/alexzielenski/sartFileTool
+
+--
 
 **Instructions**
 
@@ -23,11 +28,15 @@ https://github.com/alexzielenski/sartFileTool
 
 ```./sartfiletool -e sartfiles SArtFile.bin SArtFile.new.bin```
 
+--
+
 **Notes**
 
 • Deleting icons will cause errors make them transparant instead.
 
 • Note the amount of files that have been decoded and encoded they must match up. If they don't there is a problem.
+
+--
 
 **10.7 Lion Sartfile.bin**
 
